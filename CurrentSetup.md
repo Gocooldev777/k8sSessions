@@ -377,41 +377,5 @@ Pod Status → Running ✓
 
 *DevOps Engineer | Cloud Architect | Kubernetes Enthusiast*
 
----
-
-### 📞 Let's Connect
-
-**Have questions? Stuck on a step? Want to discuss Kubernetes architecture?**
-
-**Call/WhatsApp**: [+91 8208117943](tel:+918208117943)
-
-*Available for: Technical queries, troubleshooting, architecture discussions*
-
----
-
-```ascii
-"In the world of containers, we're all just pods
-trying to find our perfect node."
-           — Ancient DevOps Proverb
-```
-
-</div>
-
----
-
-## 📝 License
-
-This guide is free to use, share, and modify.
-
----
-
-<div align="center">
-
-**⭐ If this guide saved you hours of frustration, star this repo!**
-
-**🔄 Fork it, improve it, make it yours**
-
-
-Made with 💙 for the Kubernetes community
 
 </div>
