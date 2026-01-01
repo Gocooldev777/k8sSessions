@@ -266,7 +266,7 @@ worker2   Ready    <none>          2m    v1.29.0
 
 ### Launch Your First Pod
 ```bash
-kubectl run victory-lap --image=nginx --port=80
+kubectl run create-pod --image=nginx --port=80
 kubectl get pod -o wide
 ```
 
