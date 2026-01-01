@@ -371,11 +371,6 @@ Pod Status → Running ✓
 
 <div align="center">
 
-### **Crafted with ☕ and ⌨️ by**
-
-# **Gokul Kumar Vishwanathan**
-
-*DevOps Engineer | Cloud Architect | Kubernetes Enthusiast*
 
 
 </div>
