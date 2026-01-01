@@ -301,18 +301,18 @@ kubectl get pod -o wide
 
 ---
 
-## 🧪 Pro Tips (From Battle Scars)
+## 🧪 Points
 
 ### 🔍 Master Debugging Commands
 
 ```bash
-# The "tell me everything" command
+# Describe a Pod
 kubectl describe pod <pod-name>
 
-# See what's actually happening
+# Check the logs
 kubectl logs <pod-name>
 
-# SSH into a pod (when things break)
+# SSH into a pod (mostly i screw up in this syntax)
 kubectl exec -it <pod-name> -- /bin/bash
 
 # Check cluster health
