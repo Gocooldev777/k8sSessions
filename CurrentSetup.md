@@ -361,13 +361,13 @@ Pod Status → Running ✓
 
 ## 📚 Essential Resources
 
-- [Official Kubernetes Docs](https://kubernetes.io/docs/) - The source of truth
-- [Calico Documentation](https://docs.tigera.io/calico/latest/about/) - CNI deep dive
-- [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Advanced manual setup
+- [Official Kubernetes Docs](https://kubernetes.io/docs/) - The source
+- [Calico Documentation](https://docs.tigera.io/calico/latest/about/) - CNI
+- [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Manual setup
 
 ---
 
-## 🐛 Found a Bug? Got Questions?
+
 
 <div align="center">
 
