@@ -584,4 +584,6 @@ sudo systemctl start kubelet
 ✅ **Store backups off-site** - Node failure protection  
 ✅ **Verify every snapshot** - Ensure backup validity  
 
-**Master etcd backup/restore = Master Kubernetes disaster recovery!** 🚀
+## PreUmps
+-> This is very much aligned with Calico and current on prem k8s wth kubeAdm
+-> The structure may vary based on which kind of CNI you may use in terms of commands, but the crux will remain same.
